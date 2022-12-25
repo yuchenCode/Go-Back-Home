@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/Game/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22083333333333333" />
+        <entry key="..\:/project/Game/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/project/Game/app/src/main/res/drawable/roundbackground.xml" value="0.14074074074074075" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_achievement.xml" value="0.2390625" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_achievement_display.xml" value="0.21467391304347827" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_client.xml" value="0.165625" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_difficulty.xml" value="0.26044226044226043" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_display.xml" value="0.1296875" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_mission.xml" value="0.25364583333333335" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_role.xml" value="0.1296875" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_scan.xml" value="0.2515625" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_server.xml" value="0.165625" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_tcp_client.xml" value="0.1296875" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/activity_tips.xml" value="0.2" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/capture.xml" value="0.25364583333333335" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/cell.xml" value="0.2" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/dialog_clientset.xml" value="0.1296875" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/dialog_serverset.xml" value="0.1296875" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/layout_popupwindow.xml" value="0.25364583333333335" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/layout_popupwindownext.xml" value="0.165625" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/layout_popupwindowwin.xml" value="0.165625" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/mission_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/project/Game/app/src/main/res/layout/single_game.xml" value="0.28174603174603174" />
+        <entry key="..\:/project/Game/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23229166666666667" />
+        <entry key="..\:/project/Game/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2557291666666667" />
+        <entry key="..\:/project/Game/app/src/main/res/mipmap-anydpi-v26/icon.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

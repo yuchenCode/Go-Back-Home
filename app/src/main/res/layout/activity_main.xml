@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/brown"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageButton
+        android:id="@+id/settings"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="0px"
+        android:layout_marginRight="200px"
+        android:scaleType="centerCrop"
+        android:src="@drawable/setting" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="30sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="0dp"
+        />
+
+    <Button
+        android:id="@+id/single"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/single"
+        android:textSize="18sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        />
+
+    <Button
+        android:id="@+id/multi"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/multi"
+        android:textSize="18sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:id="@+id/achieve"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/achievement"
+        android:textSize="18sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        />
+
+    <ImageView
+        android:background="@drawable/first_page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:maxWidth="300dp"
+        android:maxHeight="240dp"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>

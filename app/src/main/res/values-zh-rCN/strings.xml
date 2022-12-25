@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">回家</string>
+    <string name="single">单人游戏</string>
+    <string name="multi">多人游戏</string>
+    <string name="achievement">成就</string>
+    <string name="setting">设置</string>
+    <string name="difficulty">选择难度</string>
+    <string name="easy">简单</string>
+    <string name="middle">中等</string>
+    <string name="hard">困难</string>
+    <string name="mission">选择关卡</string>
+    <string name="undo">撤销</string>
+    <string name="restart">重开</string>
+    <string name="next">下一关</string>
+    <string name="action">选择游戏方式</string>
+    <string name="hold">创建游戏</string>
+    <string name="join">加入游戏</string>
+    <string name="display" translatable="false">Let other player to scan to join in</string>
+    <string name="play">播放音乐</string>
+    <string name="stop">停止音乐</string>
+    <string name="chinese" translatable="false">中文</string>
+    <string name="english" translatable="false">English</string>
+    <string name="tip" translatable="false">玩法介绍</string>
+    <string name="content" translatable="false">您的任务是将红色汽车从当前位置移动到停车场的出口。为此，您需要
+        移动其他汽车。垂直放置的汽车应垂直移动，水平放置的汽车应水平移动。您可以点击汽车并滑动手指来移动汽车，如果您的路
+        被其他汽车挡住，您将无法再移动您的汽车。您花费的时间和步骤将会被计算得出您在一关中所获得的星数。</string>
+</resources>

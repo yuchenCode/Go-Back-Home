@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Go back home</string>
+    <string name="single">Single Game</string>
+    <string name="multi">Multi Game</string>
+    <string name="achievement">Achievement</string>
+    <string name="setting">Settings</string>
+    <string name="difficulty">Choose your difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="middle">Middle</string>
+    <string name="hard">Hard</string>
+    <string name="mission">Choose your mission</string>
+    <string name="undo">Undo</string>
+    <string name="restart">Restart</string>
+    <string name="next">Next Mission</string>
+    <string name="action">Choose your action</string>
+    <string name="hold">Hold a Game</string>
+    <string name="join">Join a Game</string>
+    <string name="display">Let other player to scan to join in</string>
+    <string name="play">Play music</string>
+    <string name="stop">Stop music</string>
+    <string name="chinese" translatable="false">中文</string>
+    <string name="english" translatable="false">English</string>
+    <string name="tip" translatable="false">Tips to play</string>
+    <string name="content" translatable="false">Your task is to move the red car from current place
+        to the exit of the market\'s parking lot. To do this, you need to move other cars. The car
+        placed vertically should be moved in vertical and the car placed horizontally should be
+        moved in horizontal. You can tap the car and swipe your finger to move the car, and if your
+        way is blocked by other cars, we will not be able to move your car anymore. The time you
+        cost and the step you make are counted for the star you get in a mission.</string>
+</resources>
